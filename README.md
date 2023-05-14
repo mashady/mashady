@@ -1,10 +1,10 @@
 ### Lost in the wolrd of digital ✨
 [![MasterHead](https://voicefilm.com/wp-content/uploads/2022/02/What-Episode-Does-Itachi-Die-and-How-00.jpg)](https://github.com/mashady)
-###about the creator
+### about the creator
 
-###languages
+### languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-libiraries and freameworks
+### libiraries and freameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
