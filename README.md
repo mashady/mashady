@@ -8,8 +8,7 @@ libiraries and freameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,6 +20,8 @@ libiraries and freameworks
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=mashady&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **mashady/mashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
