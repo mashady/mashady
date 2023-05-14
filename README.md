@@ -1,15 +1,15 @@
-### Lost in the wolrd of digital ✨
+### Lost in the world of digital ✨
 [![MasterHead](https://voicefilm.com/wp-content/uploads/2022/02/What-Episode-Does-Itachi-Die-and-How-00.jpg)](https://github.com/mashady)
 ### about the creator
 mashady is a full-stack web developer, but not just a developer, an
-          artist who draw a painting, spaceman who swin into the hall. that is
+         an  artist who draw a painting,a  spaceman who swin into the hall. that is
           what the code meant to me. Fall in love with technologies and smart
           things ❤
-### languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-### libiraries and freameworks
+### Libiraries & freameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-### techs and skills
+### Techs & skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
