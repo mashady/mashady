@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 libiraries and freameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 <!--
 **mashady/mashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
