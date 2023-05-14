@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![MasterHead](https://i.pinimg.com/564x/62/78/7c/62787c32f4efb0e0db16b43d8b19782b.jpg)](https://github.com/mashady)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashady)](https://github.com/anuraghazra/github-readme-stats)
+[![MasterHead]([https://i.pinimg.com/564x/62/78/7c/62787c32f4efb0e0db16b43d8b19782b.jpg](https://voicefilm.com/wp-content/uploads/2022/02/What-Episode-Does-Itachi-Die-and-How-00.jpg))](https://github.com/mashady)
+
 
 <!--
 **mashady/mashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
