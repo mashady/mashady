@@ -1,7 +1,10 @@
 ### Lost in the wolrd of digital ✨
 [![MasterHead](https://voicefilm.com/wp-content/uploads/2022/02/What-Episode-Does-Itachi-Die-and-How-00.jpg)](https://github.com/mashady)
 ### about the creator
-
+mashady is a full-stack web developer, but not just a developer, an
+          artist who draw a painting, spaceman who swin into the hall. that is
+          what the code meant to me. Fall in love with technologies and smart
+          things ❤
 ### languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 ### libiraries and freameworks
