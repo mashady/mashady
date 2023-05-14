@@ -1,7 +1,7 @@
 ###Lost in the wolrd of digital ✨
 [![MasterHead](https://voicefilm.com/wp-content/uploads/2022/02/What-Episode-Does-Itachi-Die-and-How-00.jpg)](https://github.com/mashady)
 ###languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
 <!--
 **mashady/mashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
