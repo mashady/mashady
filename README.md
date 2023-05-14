@@ -1,6 +1,7 @@
 ### Hi there 👋
+[![MasterHead](https://i.pinimg.com/564x/62/78/7c/62787c32f4efb0e0db16b43d8b19782b.jpg)](https://github.com/mashady)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashady)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mashady/mashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
