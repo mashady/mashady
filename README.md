@@ -1,6 +1,6 @@
 ![Header](./gh-poster.png)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/mashadythedev" target="blank"><img src="https://img.shields.io/twitter/follow/mashadythedev?logo=twitter&style=for-the-badge" alt="mashadythedev" /></a> </p>
 
